@@ -1,0 +1,7 @@
+*.db
+*~
+*.json
+*.ods
+*.csv
+alexa_scan/**/*
+!alexa_scan/*.py
